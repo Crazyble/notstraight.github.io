@@ -11,11 +11,11 @@ Body{background-color: white;}
 div{
 Width:200px;
 height:200px;
-margin-bottom: 50px !important;
 Text-align:center;
 Padding: auto;
 Border: 3px solid black;
 Margin: auto;
+margin-bottom: 50px;
 }
 .Sasha{
 background-color: green;
