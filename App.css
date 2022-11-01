@@ -12,10 +12,15 @@ div{
 Width:250px;
 height:250px;
 Text-align:center;
-Line-height:250px;
 Border: 3px solid black;
 Margin: auto;
 margin-bottom: 50px;
+}
+Div, p{
+
+Position:absolute;
+Right:50%;
+Top:50%;
 }
 .Sasha{
 background-color: green;
@@ -25,6 +30,4 @@ background-color:yellow;
 }
 .Vlad{
 background-color:blue;
-line-height: 1.5;
-vertical-align: middle;
 }
