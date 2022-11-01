@@ -5,9 +5,10 @@ Color:red;
 Body{background-color: white;}
 
 div{
-width:100px;
-height:100px;
+width:300px;
+height:300px;
 margin-bottom: 50px;
+Text-align:center;
 }
 .Sasha{
 background-color: green;
