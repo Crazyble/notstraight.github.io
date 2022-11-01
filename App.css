@@ -15,6 +15,13 @@ Text-align:center;
 Border: 3px solid black;
 Margin: auto;
 margin-bottom: 50px;
+Position:static;
+}
+
+Div > p{
+Position:absolute;
+Top:50%;
+Right:50%;
 }
 .Sasha{
 background-color: green;
