@@ -27,3 +27,19 @@ background-color:yellow;
 .Vlad{
 background-color:blue;
 }
+.gaybutton{
+Width:100px:
+Height:100px;
+Background-color:blue;
+Margin: 2px solid black;
+Border-radius:50%;
+Position:fixed;
+Top:100px;
+
+
+
+}
+.gaybutton:hover{
+Background-color:yellow;
+Transition: 3s;
+}
