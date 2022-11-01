@@ -6,9 +6,9 @@ Text-align:center;
 font-size:15px;
 }
 
-Body{background-color: white;}
-
-div{
+Body{background-color: white}
+.Sasha{
+background-color: green;
 Width:330px;
 height:330px;
 Text-align:center;
@@ -16,28 +16,38 @@ Line-height:250px;
 Border: 3px solid black;
 Margin: auto;
 margin-bottom: 50px;
-border-radius: 50px;
-}
-.Sasha{
-background-color: green;
+border-radius: 50px
 }
 .David{
 background-color:yellow;
+Width:330px;
+height:330px;
+Text-align:center;
+Line-height:250px;
+Border: 3px solid black;
+Margin: auto;
+margin-bottom: 50px;
+border-radius: 50px
 }
 .Vlad{
 background-color:blue;
+Width:330px;
+height:330px;
+Text-align:center;
+Line-height:250px;
+Border: 3px solid black;
+Margin: auto;
+margin-bottom: 50px;
+border-radius: 50px
 }
 .gaybutton{
-Width:100px:
-Height:100px;
+Width:50px:
+Height:50px;
 Background-color:blue;
 Margin: 2px solid black;
 Border-radius:50%;
 Position:fixed;
-Top:100px;
-
-
-
+Top:1000px;
 }
 .gaybutton:hover{
 Background-color:yellow;
