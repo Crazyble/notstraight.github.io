@@ -9,10 +9,10 @@ font-size:15px;
 Body{background-color: white;}
 
 div{
-Width:200px;
-height:200px;
+Width:250px;
+height:250px;
 Text-align:center;
-Padding: auto;
+Line-height:250px;
 Border: 3px solid black;
 Margin: auto;
 margin-bottom: 50px;
