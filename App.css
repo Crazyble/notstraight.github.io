@@ -1,3 +1,20 @@
 h1{
 Color:red;
 }
+
+Body{background-color: red}
+
+div{
+width:100px;
+height:100px;
+margin-bottom: 50px;
+}
+.Sasha{
+background-color: green;
+}
+.David{
+background-color:yellow;
+}
+.Vlad{
+background-color:blue;
+}
