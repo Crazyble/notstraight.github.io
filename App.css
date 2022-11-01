@@ -16,7 +16,7 @@ Border: 3px solid black;
 Margin: auto;
 margin-bottom: 50px;
 }
-Div, p{
+Div p{
 
 Position:absolute;
 Right:50%;
