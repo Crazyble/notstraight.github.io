@@ -48,8 +48,11 @@ Margin: 2px solid black;
 Border-radius:50%;
 Position:fixed;
 Top:400px;
+Transition: background-color 3s;
+Text-align:center;
+Font-size: 50%;
 }
 .gaybutton:hover{
 Background-color:yellow;
-Transition: 3s;
+
 }
